@@ -1,0 +1,6 @@
+{
+  "name": "Calculator",
+  "description": "A clean, responsive, and precise basic calculator with keyboard support and expression history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
